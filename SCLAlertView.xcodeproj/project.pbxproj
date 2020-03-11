@@ -194,7 +194,7 @@
 					};
 					70264F011B0F588800B32B18 = {
 						CreatedOnToolsVersion = 6.3.2;
-						LastSwiftMigration = 1010;
+						LastSwiftMigration = 1130;
 					};
 				};
 			};
@@ -434,7 +434,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.alec-c4.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -447,7 +447,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.alec-c4.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
